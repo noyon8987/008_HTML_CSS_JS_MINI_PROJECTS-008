@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  #main {
+    width: 90%;
+    height: 90vh;
+    margin: 5vh auto;
+  }
+  
+  #main ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+  }
+  
+  #main li {
+    list-style-type: none;
+    width: 7%;
+    height: 8rem;
+   box-shadow: 0 0 5px rgb(54, 53, 53);
+  }
+  
+  .red {
+      background-color: #db5f5f;
+      border-radius: 5px;
+  }
+  
+  .green {
+      background-color: #67e085;
+      border-radius: 5px;
+  }
+  
+  .blue {
+      background-color: #54bae9;
+      border-radius: 5px;
+  }
+  
+  .pink {
+      background-color: #f04d70;
+      border-radius: 5px;
+  }
+  
+  .purple {
+      background-color: #c74bec;
+      border-radius: 5px;
+  }
