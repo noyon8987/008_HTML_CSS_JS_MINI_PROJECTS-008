@@ -1,1 +1,1 @@
-# html_css_javascript_mini_projects
+# 008_HTML_CSS_JS_MINI_PROJECTS-008
